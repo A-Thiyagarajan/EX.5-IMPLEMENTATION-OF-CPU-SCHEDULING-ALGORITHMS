@@ -50,7 +50,8 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 ```
 
 ## OUTPUT:
-![output](./images/fcfs.png)
+![fcfs](https://github.com/A-Thiyagarajan/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118707693/605bd4f4-2a34-47a0-9190-84a6108b72e7)
+
 
 ## RESULT: 
 First-Come-First-Serve Scheduling is implemented successfully.
@@ -138,7 +139,8 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 
 
 ## OUTPUT:
-![output](./images/sjf-ps.png)
+![sjf-ps](https://github.com/A-Thiyagarajan/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118707693/192ca62d-3b8e-488f-993b-b510bf343054)
+
 
 ## RESULT:
 Shortest Job First (SJF) preemptive scheduling is implemented successfully.
@@ -216,8 +218,9 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT:
+![sjf-nps](https://github.com/A-Thiyagarajan/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118707693/e23fd0cd-9269-44e0-b8a8-4aae71543bae)
 
-![output](./images/sjf-nps.png)
+
 ## RESULT:
 Shortest Job First (SJF) Non-preemptive scheduling is implemented successfully.
 # Round Robin (RR) Scheduling
@@ -308,8 +311,9 @@ int main() {
 ```
 
 ## OUTPUT:
+![rrs](https://github.com/A-Thiyagarajan/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118707693/68d1e97f-c12e-4388-9d91-3a258f36d912)
 
-![output](./images/rrs.png)
+
 ## RESULT:
 Round Robin (RR) Scheduling is implemented successfully.
 
@@ -385,8 +389,9 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT:
+![p-ps](https://github.com/A-Thiyagarajan/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118707693/9a6582ad-9588-4f0c-b128-266cec036545)
 
-![output](./images/p-ps.png)
+
 ## RESULT: 
 Priority Preemptive scheduling is implemented successfully.
 
@@ -457,7 +462,8 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT:
-![output](./images/p-nps.png)
+![p-nps](https://github.com/A-Thiyagarajan/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118707693/bf12aca0-2359-43ab-a4d5-43364a68bcb2)
+
 
 ## RESULT: 
 Priority Non-preemptive scheduling is implemented successfully.
